@@ -1,0 +1,7 @@
+SPOTIFY_ID=(Spotify ID goes here)
+SPOTIFY_SECRET=(Spotify Secret goes here)
+
+OMDB_KEY=(OMDB key goes here)
+
+BANDSINTOWN_KEY=(Bands in Town key goes here)
+
